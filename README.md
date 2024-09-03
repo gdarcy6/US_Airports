@@ -8,4 +8,5 @@ To further enhance usability, I added a "Clear Selection" option under the state
 
 Moreover, the map remains fully interactive, utilizing Leaflet, as demonstrated by Appsilon. These added features and improvements are highlighted in the accompanying video, showcasing the app's enhanced functionality and user experience.
 
-[test - Shiny 2024-09-03 09-45-15.zip](https://github.com/user-attachments/files/16848080/test.-.Shiny.2024-09-03.09-45-15.zip)
+https://github.com/user-attachments/assets/2f58c5e2-e715-4ee6-90ad-da3c9f6528c9
+
